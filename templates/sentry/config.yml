@@ -1,0 +1,4 @@
+name: aert - sentry
+version: 8.17
+description: Sentry is a realtime event logging and aggregation platform
+category: Error Tracking

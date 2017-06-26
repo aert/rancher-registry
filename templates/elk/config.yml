@@ -1,0 +1,4 @@
+name: Orchtech - ELK
+version: full-bundle
+description: ElasticSearch - Logstash - Kibana
+category: OrchTech
